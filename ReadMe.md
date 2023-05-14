@@ -1,3 +1,6 @@
+An improved version of Thetis, particularly with regard to VAC latency.
+
+
 --- Currently there are no releases available ----
 This is because of internal code re-organisation, so
 please be patient
@@ -26,7 +29,7 @@ You can find out more about this at: https://semver.org/
 
 
 
-An improved version of Thetis, particularly with regard to VAC latency.
+
 
 It includes many improvements to the VAC system, and allies HL2 (Hermes-Lite 2) usage with the Apache-Labs ones.
 
