@@ -1,3 +1,8 @@
+--- Currently there are no releases available ----
+This is because of internal code re-organisation, so
+please be patient
+-------
+
 Please note that this repo uses (almost) best-practice 
 with regard to version numbers. Why almost? See below:
 
