@@ -3,7 +3,7 @@ with regard to version numbers. Why almost? See below:
 
 
 Semantic Versioning 2.0.0
-Summary
+Summary:
 Given a version number MAJOR.MINOR.PATCH, increment the:
 
  - MAJOR version when you make incompatible API changes
