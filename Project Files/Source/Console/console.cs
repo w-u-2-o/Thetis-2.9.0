@@ -656,7 +656,7 @@ namespace Thetis
         {
             // CheckIfRussian(); //#UKRAINE
 
-
+/*
 #if (DEV_PREVIEW)
             if (!File.Exists("C:\\cliffdev.txt"))
             {
@@ -669,7 +669,7 @@ namespace Thetis
             //  MessageBox.Show("Click me to start");
 
 #endif
-
+*/
             Display.specready = false;
             theConsole = this; // KLJ. Don't let it be assigned only in the caller: it means that anyone looking for 'theConsole'
             // (AFAIK, the NetworkIO) will not find us even after Shown() is complete, thus apparently randomly breaking autostart.

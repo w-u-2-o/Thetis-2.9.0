@@ -22,3 +22,15 @@ U:\Wales\Thetis-2.9.0\Project Files\Source\Sandbox\obj\Release\Sandbox.csproj.Ge
 U:\Wales\Thetis-2.9.0\Project Files\Source\Sandbox\obj\Release\Sandbox.csproj.CoreCompileInputs.cache
 U:\Wales\Thetis-2.9.0\Project Files\Source\Sandbox\obj\Release\Sandbox.exe
 U:\Wales\Thetis-2.9.0\Project Files\Source\Sandbox\obj\Release\Sandbox.pdb
+C:\Users\Radioserver2\source\repos\Thetis-2.9.0\Project Files\Source\Sandbox\bin\Release\Sandbox.exe.config
+C:\Users\Radioserver2\source\repos\Thetis-2.9.0\Project Files\Source\Sandbox\bin\Release\Sandbox.exe
+C:\Users\Radioserver2\source\repos\Thetis-2.9.0\Project Files\Source\Sandbox\bin\Release\Sandbox.pdb
+C:\Users\Radioserver2\source\repos\Thetis-2.9.0\Project Files\Source\Sandbox\obj\Release\Sandbox.csproj.AssemblyReference.cache
+C:\Users\Radioserver2\source\repos\Thetis-2.9.0\Project Files\Source\Sandbox\obj\Release\Sandbox.csproj.SuggestedBindingRedirects.cache
+C:\Users\Radioserver2\source\repos\Thetis-2.9.0\Project Files\Source\Sandbox\obj\Release\Sandbox.frmMain.resources
+C:\Users\Radioserver2\source\repos\Thetis-2.9.0\Project Files\Source\Sandbox\obj\Release\Sandbox.frmSplash.resources
+C:\Users\Radioserver2\source\repos\Thetis-2.9.0\Project Files\Source\Sandbox\obj\Release\Sandbox.Properties.Resources.resources
+C:\Users\Radioserver2\source\repos\Thetis-2.9.0\Project Files\Source\Sandbox\obj\Release\Sandbox.csproj.GenerateResource.cache
+C:\Users\Radioserver2\source\repos\Thetis-2.9.0\Project Files\Source\Sandbox\obj\Release\Sandbox.csproj.CoreCompileInputs.cache
+C:\Users\Radioserver2\source\repos\Thetis-2.9.0\Project Files\Source\Sandbox\obj\Release\Sandbox.exe
+C:\Users\Radioserver2\source\repos\Thetis-2.9.0\Project Files\Source\Sandbox\obj\Release\Sandbox.pdb
